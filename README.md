@@ -6,4 +6,4 @@ utils and tools
 * Random password generator  
 
 
-$ ruby rand_password.rb
+  $  ruby rand_password.rb
